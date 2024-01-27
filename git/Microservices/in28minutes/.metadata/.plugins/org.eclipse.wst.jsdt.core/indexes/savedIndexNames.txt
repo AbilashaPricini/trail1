@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\UpSkill\Microservices\in28minutes\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+881876306.index
+4165848777.index
+3314566040.index
+1214730092.index
+1353336650.index
+3512721141.index
